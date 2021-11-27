@@ -1,0 +1,76 @@
+train/b3a29e80297ca2ac.jpg,387,995,615,1204,Car
+train/b3a29e80297ca2ac.jpg,1195,961,1348,1160,Car
+train/b3a29e80297ca2ac.jpg,1254,983,1384,1114,Car
+train/b3a29e80297ca2ac.jpg,1368,961,1521,1130,Car
+train/b3a29e80297ca2ac.jpg,1674,921,1867,1234,Car
+train/b3a29e80297ca2ac.jpg,2208,848,3213,1488,Car
+train/2d8d0509d111f0d4.jpg,366,426,1455,861,Car
+train/2d8d0509d111f0d4.jpg,814,408,1017,461,Car
+train/2d8d0509d111f0d4.jpg,1096,387,1306,504,Car
+train/015b7c193a8bdb33.jpg,1057,491,1382,842,Mobile phone
+train/015b7c193a8bdb33.jpg,10,1211,320,1331,Person
+train/015b7c193a8bdb33.jpg,725,602,1655,1331,Person
+train/1ab4f1305d0ea276.jpg,197,162,3434,2916,Mobile phone
+train/1ab4f1305d0ea276.jpg,1778,1182,2316,2365,Person
+train/1ab4f1305d0ea276.jpg,3081,165,4795,1901,Person
+train/1ab4f1305d0ea276.jpg,2747,0,5180,2912,Mobile phone
+train/f17fb817f83cb18c.jpg,0,1251,4892,3668,Person
+train/38fce12c00704b3d.jpg,192,62,407,414,Mobile phone
+train/7f9d25abaed9c0eb.jpg,30,722,340,1523,Person
+train/7f9d25abaed9c0eb.jpg,371,775,644,1113,Person
+train/7f9d25abaed9c0eb.jpg,624,775,805,1058,Person
+train/7f9d25abaed9c0eb.jpg,822,683,864,779,Person
+train/7f9d25abaed9c0eb.jpg,885,805,1046,973,Person
+train/7f9d25abaed9c0eb.jpg,1066,716,1168,987,Person
+train/7f9d25abaed9c0eb.jpg,1189,826,1328,991,Person
+train/7f9d25abaed9c0eb.jpg,1676,752,1760,799,Person
+train/7f9d25abaed9c0eb.jpg,2558,630,2609,685,Person
+train/7f9d25abaed9c0eb.jpg,2633,638,2680,689,Person
+train/7f9d25abaed9c0eb.jpg,2684,634,2727,736,Person
+train/7f9d25abaed9c0eb.jpg,2837,860,3027,987,Person
+train/7f9d25abaed9c0eb.jpg,2917,760,3009,848,Person
+train/7f9d25abaed9c0eb.jpg,40,567,3125,2445,Car
+train/707c5e61b7feb120.jpg,7,434,62,485,Car
+train/04aa20ea817834b7.jpg,410,381,683,895,Person
+train/f003699c3bde3eae.jpg,648,993,801,1537,Person
+train/f003699c3bde3eae.jpg,1414,584,1624,873,Person
+train/47f7cdc205fb7642.jpg,31,230,236,693,Person
+train/47f7cdc205fb7642.jpg,322,261,428,555,Person
+train/71e44d5772f04e99.jpg,1872,1052,2407,1326,Car
+train/017b5d08fb76f688.jpg,811,784,1148,941,Mobile phone
+train/017b5d08fb76f688.jpg,1841,721,2337,1317,Mobile phone
+train/1e68b9f799fc3a6c.jpg,0,512,1479,946,Person
+train/1e68b9f799fc3a6c.jpg,541,697,574,836,Person
+train/a2c26b200f1900fd.jpg,342,287,2188,1921,Mobile phone
+train/a2c26b200f1900fd.jpg,1478,420,3354,2388,Mobile phone
+train/df70f1d030065acb.jpg,78,220,152,406,Person
+train/df70f1d030065acb.jpg,142,212,252,524,Person
+train/df70f1d030065acb.jpg,143,212,169,269,Person
+train/df70f1d030065acb.jpg,385,17,592,534,Person
+train/df70f1d030065acb.jpg,546,259,594,335,Person
+train/df70f1d030065acb.jpg,639,180,723,360,Person
+train/df70f1d030065acb.jpg,747,181,799,312,Person
+train/4ca5d55cdd16a4dc.jpg,894,1064,1161,1827,Person
+train/4ca5d55cdd16a4dc.jpg,1359,1185,1584,1825,Person
+train/1d479b1bad71f1b5.jpg,978,632,1054,912,Person
+train/1d479b1bad71f1b5.jpg,789,585,845,810,Person
+train/1d479b1bad71f1b5.jpg,913,620,1009,928,Person
+train/4a1f075fdf3e6f70.jpg,394,61,2464,3524,Mobile phone
+train/201b914197b7f363.jpg,0,1014,449,1722,Car
+train/82792f62ee214b39.jpg,696,109,1876,1451,Person
+train/82792f62ee214b39.jpg,1972,0,2398,1425,Person
+train/0f360140b85c24e5.jpg,1182,352,1589,1049,Mobile phone
+train/0f360140b85c24e5.jpg,30,0,1686,1078,Person
+train/0f360140b85c24e5.jpg,1323,661,1356,706,Person
+train/0f360140b85c24e5.jpg,0,146,653,972,Mobile phone
+train/2baa97f1ff5c538a.jpg,387,254,2208,1619,Mobile phone
+train/88db3d06c47d6b58.jpg,0,362,1143,1144,Car
+train/88db3d06c47d6b58.jpg,249,484,4345,2728,Car
+train/88db3d06c47d6b58.jpg,3154,1111,4749,3165,Car
+train/513a362bfed636a8.jpg,0,1076,638,1804,Car
+train/513a362bfed636a8.jpg,521,1156,928,1382,Car
+train/513a362bfed636a8.jpg,894,1057,1241,1224,Car
+train/513a362bfed636a8.jpg,1483,1064,1547,1104,Car
+train/091864dabd2e2cd0.jpg,0,12,2445,3108,Car
+train/c223b444501f5615.jpg,1588,801,2046,1255,Car
+train/d5e3c7c80de54ef0.jpg,504,0,1667,1360,Mobile phone

@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+*.pickle
+class-descriptions-boxable.csv
+train-annotations-bbox.csv
+train-images-boxable-with-rotation.csv
